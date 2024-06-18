@@ -54,14 +54,3 @@
     font-weight: 400;
     color: lightslategray;
 }
-
-footer {
-    font-size: small;
-    text-align: center;
-    margin-top: 2rem;
-}
-
-footer a {
-    color: RGB(0, 0, 238);
-    text-decoration: none;
-}
